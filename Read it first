@@ -1,0 +1,8 @@
+Run this command in the terminal to add next.js
+>> npx create-next-app@latest
+
+Then install all the dependancies
+>> npm install @tensorflow/tfjs @tensorflow-models/coco-ssd react-webcam canvas lodash
+
+To start the app
+>> npm run dev
